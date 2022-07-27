@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\程式專案\java\Library_booking_system\.metadata\.plugins\org.eclipse.jdt.core
